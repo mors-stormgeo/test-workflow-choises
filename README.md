@@ -1,1 +1,1 @@
-# testworkflowwithfrewchoices
+# test-workflow-choices
